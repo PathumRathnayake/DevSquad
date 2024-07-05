@@ -209,7 +209,7 @@ label .close_btn {
 
 .hero_container .image_section img {
     width: 350%;
-    margin-left: -200px;
+    margin-left: 0px;
 }
 
 /* About Us Section */
